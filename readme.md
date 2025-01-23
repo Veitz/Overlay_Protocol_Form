@@ -68,6 +68,3 @@ Die Funktion `batch_process_scans` verarbeitet alle PDF-Dokumente in einem angeg
   - Überprüfe, ob das Firmenpapier tatsächlich die gewünschte erste Seite enthält.
 - **Output-Ordner nicht gefunden**:
   - Das Skript erstellt den Ordner `output` automatisch. Stelle sicher, dass du Schreibrechte hast.
-
-
-

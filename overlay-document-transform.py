@@ -3,6 +3,7 @@
 from PyPDF2 import PdfReader, PdfWriter, PageObject
 import os
 
+
 def overlay_document_on_letterhead(scan_path, letterhead_path, output_path):
     """
     Überlagert jede Seite eines gescannten Dokuments auf das Firmenpapier (PDF) und behält die Seitenanzahl des Scans bei.
